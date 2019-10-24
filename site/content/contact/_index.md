@@ -3,7 +3,8 @@ title: "Contact Us"
 
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "Outer ring road,
+Land Mark plaza, 3rd floor Kenya"
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
