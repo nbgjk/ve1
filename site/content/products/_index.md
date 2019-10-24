@@ -4,7 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  WTCs is the ultimate spot for coffee lovers who want to learn about their
+  WTC is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
@@ -44,7 +44,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Commercial Products
+  heading: Great coffee with no compromises
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
