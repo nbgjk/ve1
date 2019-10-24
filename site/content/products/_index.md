@@ -43,10 +43,7 @@ intro:
 main:
   heading: Commercial Products
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Pretreatment, process water/liquid treatment, waste water treatment, water recycle and product recovery using various physico-chemical processes for settling, clarification, filtration, and disinfection, membrane and technology.
   image1:
     alt: Commercial Water Treatment System
     image: /img/com3.jpg
