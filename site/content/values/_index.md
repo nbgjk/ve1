@@ -2,18 +2,14 @@
 title: "About Us"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Commercial Water Treatment System "
+  - heading: "Commercial Water Treatment Systems"
     text: >
       Pretreatment, process water/liquid treatment, waste water treatment, water recycle and product recovery using various physico-chemical processes for settling, clarification, filtration, and disinfection, membrane and technology.
     imageUrl: "/img/com1.jpg"
-  - heading: "Single origin"
+  - heading: "Sewage Treatment Plants"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
+      Sewage treatment is the process of removing contaminants from municipal wastewater, containing mainly household sewage plus some industrial wastewater. Physical, chemical, and biological processes are used to remove contaminants and produce treated wastewater that is safe enough for release into the environment. 
+    imageUrl: "/img/prod1.jpg"
   - heading: "Sustainable farming"
     text: >
       Sustainable agriculture is farming in sustainable ways based on
