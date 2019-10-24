@@ -4,7 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-Aquaflow Investment provide sewage treatment plants for removal of excessive fluoride, arsenic, iron and nitrates from water. These along with disinfection systems have been adapted to rural needs.
+  Aquaflow Investment provide sewage treatment plants for removal of excessive fluoride, arsenic, iron and nitrates from water. These along with disinfection systems have been adapted to rural needs.
 intro:
   blurbs:
     - image: /img/prod1.jpg
@@ -53,5 +53,4 @@ main:
 
 
 ---
-
 
