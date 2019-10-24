@@ -4,10 +4,10 @@ subtitle: Removing pollutants from waste water
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Aquaflow Investment?
-    text: "Aquaflow Investment is a Water Treatment Company who bring you total environment solutions - water treatment, waste water treatment & recycle, zero liquid discharge.Specialists in water and environment management, we provide solutions across industry, homes and communities. Integrating extensive process technologies, design, engineering and project management capability, we offer total solutions with single source responsibility."
+    text: "Aquaflow Investment is a Water Treatment Company who bring you total environment solutions - water treatment, waste water treatment & recycle, zero liquid discharge. Specialists in water and environment management."
 intro:
     heading: "What we offer"
-    text: "WTC is the ultimate spot for ETP Plant lovers who want to learn about their technologies origin and support the farmers that grew it. We also take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "We provide solutions across industry, homes and communities. Integrating extensive process technologies, design, engineering and project management capability, we offer total solutions with single source responsibility."
 products:
     - image: img/prod1.jpg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
