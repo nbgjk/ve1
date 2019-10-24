@@ -39,12 +39,9 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    WTC is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Aquaflow Investment provide sewage treatment plants for removal of excessive fluoride, arsenic, iron and nitrates from water. These along with disinfection systems have been adapted to rural needs.
 main:
-  heading: Great coffee with no compromises
+  heading: Commercial Products
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
