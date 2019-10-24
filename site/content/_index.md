@@ -1,6 +1,6 @@
 ---
 title: "A Water Treatment Company"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Removing pollutants from waste water
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Aquaflow Investment?
