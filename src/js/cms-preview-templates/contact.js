@@ -23,6 +23,7 @@ export default class ContactPreview extends React.Component {
         { widgetFor("body") }
         <ContactEntries data={contactEntries} />
       </div>
+        
     </div>;
   }
 }

@@ -1,10 +1,31 @@
-<form action="" class="flex-ns mb3">
+<form id="fod" action="" class="flex-ns mb3">
 
   <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" action="newsletter-subscribe">
-    <input type="text" id="email" placeholder="Your email" class="w-100">
-    <label for="email">Your email</label>
+    <input type="number" name="pincode" id="pincode" placeholder="Your Pincode" class="w-100">
+    <label for="email">Your Pincode</label>
   </fieldset>
 
-  <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Submit</button>
+  <button id="pin" class="btn mb3 w-100 w-auto-ns mb0-ns raise">Search</button>
 
 </form>
+<script>
+const data=[
+    {
+        id:1,
+        name: "Dinesh",
+        address:"near Sai",
+        phone:"+91906564456",
+        pin:"324135"
+    }
+    
+    ];
+$("#pin").click(function(event){
+  event.preventDefault();
+   var valu = $("#pincode").val();
+  if(valu==data[0].pin){
+  alert("One Dealer Found name as "+" " + data[0].name + " " + "its address"+" "+data[0].address+" "+"and phone number is"+" "+data[0].phone);
+  }else{
+alert("Not Found or our Delear not available at this pin code"+" "+valu);
+  }
+});
+</script>
