@@ -15,6 +15,6 @@ products:
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: About Us
-    text:We use our wide range of processes with an integrated approach to deliver total solutions for every market - household, institutional, commercial, industrial and public water supplies, urban and rural areas.
+    text:"We use our wide range of processes with an integrated approach to deliver total solutions for every market - household, institutional, commercial, industrial and public water supplies, urban and rural areas."
 ---
 
