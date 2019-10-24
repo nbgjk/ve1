@@ -53,12 +53,7 @@ main:
   image1:
     alt: Commercial Water Treatment System
     image: /img/com3.jpg
-  image2:
-    alt: Commercial Water Treatment System
-    image: /img/com2.jpg
-  image3:
-    alt: Commercial Water Treatment System
-    image: /img/com1.jpg
+
 
 ---
 

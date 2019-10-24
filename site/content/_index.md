@@ -4,7 +4,7 @@ subtitle: Removing pollutants from waste water
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Aquaflow Investment?
-    text: "Aquaflow Investment is the Water Treatment Company for everyone who believes that pure water is in state shouldn't just taste good, it should do good too. We source all directly from small scale sustainable Chemicals and make sure part of the profits are reinvested in their communities."
+    text: "Aquaflow Investment is a Water Treatment Company who bring you total environment solutions - water treatment, waste water treatment & recycle, zero liquid discharge.Specialists in water and environment management, we provide solutions across industry, homes and communities. Integrating extensive process technologies, design, engineering and project management capability, we offer total solutions with single source responsibility."
 intro:
     heading: "What we offer"
     text: "WTC is the ultimate spot for ETP Plant lovers who want to learn about their technologies origin and support the farmers that grew it. We also take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
