@@ -3,8 +3,8 @@ title: "A Water Treatment Company"
 subtitle: Removing pollutants from waste water
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Aquaflow Investment?
-    text: "Aquaflow Investment is a Water Treatment Company who bring you total environment solutions - water treatment, waste water treatment & recycle, zero liquid discharge. Specialists in water and environment management."
+    heading: Why Aqua?
+    text: "Aqua is a Water Treatment Company who bring you total environment solutions - water treatment, waste water treatment & recycle, zero liquid discharge. Specialists in water and environment management."
 intro:
     heading: "What we offer"
     text: "We provide solutions across industry, homes and communities. Integrating extensive process technologies, design, engineering and project management capability, we offer total solutions with single source responsibility."
